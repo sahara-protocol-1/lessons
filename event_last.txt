@@ -1,0 +1,45 @@
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+            [event] => ONCRMDEALADD
+            [data] => Array
+                (
+                    [FIELDS] => Array
+                        (
+                            [ID] => 8205
+                        )
+
+                )
+
+            [ts] => 1688913637
+            [auth] => Array
+                (
+                    [access_token] => f5d4aa6400650ff60065068e00000001000006ea7a4331cf9fab7017fce97f3ac4349f
+                    [expires] => 1688917237
+                    [expires_in] => 3600
+                    [scope] => crm,task
+                    [domain] => hohoho1234.bitrix24.ru
+                    [server_endpoint] => https://oauth.bitrix.info/rest/
+                    [status] => F
+                    [client_endpoint] => https://hohoho1234.bitrix24.ru/rest/
+                    [member_id] => cccaffa6bc29ebb19b7a54018a38a633
+                    [user_id] => 1
+                    [application_token] => 437e2b4536880350b3211effad364e7e
+                )
+
+        )
+
+    [_COOKIE] => Array
+        (
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+)

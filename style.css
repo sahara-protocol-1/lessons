@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.ho {
+    display: flex;
+    justify-content: start;
+  }
+
+
+
+table {
+    border-collapse: collapse;
+}
+table td, table th {
+    border: 1px solid green;
+    padding: 8px;
+}

@@ -1,0 +1,35 @@
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [event] => ONCRMDEALADD
+                    [handler] => https://12344test.ru/handler_eventbind.php
+                    [auth_type] => 0
+                    [offline] => 0
+                )
+
+            [1] => Array
+                (
+                    [event] => ONTASKADD
+                    [handler] => https://12344test.ru/handler_eventbind.php
+                    [auth_type] => 0
+                    [offline] => 0
+                )
+
+        )
+
+    [time] => Array
+        (
+            [start] => 1688913638.1723
+            [finish] => 1688913638.2009
+            [duration] => 0.028625011444092
+            [processing] => 0.0014309883117676
+            [date_start] => 2023-07-09T17:40:38+03:00
+            [date_finish] => 2023-07-09T17:40:38+03:00
+            [operating_reset_at] => 1688914238
+            [operating] => 0
+        )
+
+)
